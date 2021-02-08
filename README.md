@@ -9,7 +9,7 @@ In this project I will be developing and launching my first Website using GitHub
 
 ## General Info
 
-This project aims to develop and launch a fully functional website as a way to test and develop my newly learned HTML, CSS and GitHub skills. 
+This project aims to develop and launch a fully functional website as a way to test and develop my newly learned HTML, CSS and GitHub skills. It integrates new HTML elements such as mp4 files and semantic HTML structure.
 
 ## Technologies
 
